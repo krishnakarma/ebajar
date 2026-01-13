@@ -1,7 +1,7 @@
 ## 🚀 Live Project Links
 
 ### 🌐 Frontend (User Website)
-👉 https://your-frontend-link.vercel.app
+👉 (https://ebajar-admin.vercel.app/)
 
 ### 🛠 Admin Panel
-👉 https://your-admin-link.vercel.app
+👉 (https://ebajar-frontend.vercel.app/)
